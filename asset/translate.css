@@ -5,7 +5,11 @@
     left: 8%;
 }
 
-#iframe-container {
+/* #iframe-container {
+    display: inline-block;
+} */
+
+#player {
     display: inline-block;
 }
 
