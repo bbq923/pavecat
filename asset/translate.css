@@ -1,0 +1,41 @@
+#video-container {
+    position: absolute;
+    left: 8%;
+}
+
+#iframe-container {
+    display: inline-block;
+}
+
+#video-controller {
+    display: inline-block;
+    margin-left: 60px;
+}
+
+#caption-list {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+#caption-list li {
+    padding: 0.3em;
+    margin-bottom: .125em;
+    width: 400px;
+    display: block;
+    list-style: none;
+    text-transform: uppercase;
+}
+
+#caption-list li:nth-child(2n) {
+    background-color: #555;
+}
+
+#caption-list li:nth-child(2n+1) {
+    background-color: #333;
+}
+
+#caption-list li.selected {
+    border: 3px solid;
+    border-color: #9C2C2C;
+}

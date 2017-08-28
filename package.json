@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bbq923/pavecat#readme",
   "dependencies": {
-    "handlebars": "^4.0.10"
+    "handlebars": "^4.0.10",
+    "mediaelement": "^4.2.3"
   }
 }
