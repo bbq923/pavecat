@@ -1,5 +1,7 @@
 #video-container {
+    display: block;
     position: absolute;
+    top: 8%;
     left: 8%;
 }
 
@@ -10,6 +12,25 @@
 #video-controller {
     display: inline-block;
     margin-left: 60px;
+}
+
+#video-controller .list-button {
+    background-color: green;
+    margin-right: 10px;
+    padding: 4px;
+}
+
+#caption-area {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    width: 626px;
+    background-color: #777777;
+}
+
+#caption-area p {
+    margin-left: 15px;
 }
 
 #caption-list {

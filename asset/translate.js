@@ -1,9 +1,20 @@
+var Translation;
+
 var TRANSLATE = {
     URLTemplate : "https://www.youtube.com/embed/",
 
     init : function() {
         this.urlLoad();
+        this.getScript.apply(this);
         document.querySelector("#caption-list").addEventListener("click", this.scriptSelect);
+        document.querySelector("#deleteBtn").addEventListener("click", this.scriptDelete);
+        document.querySelector("#moveBtn").addEventListener("click", this.scriptMove.bind(this));
+    },
+
+    getScript : function() {
+        $.getJSON("asset/script.json", function(data) {
+            Translation = data;
+        })
     },
 
     urlLoad : function() {
@@ -20,14 +31,27 @@ var TRANSLATE = {
     
             e.target.classList.add("selected");
         }
+    },
+
+    scriptDelete : function() {
+        var curSelectedLi = document.querySelector(".selected");
+        curSelectedLi.nextElementSibling.classList.add("selected");
+        curSelectedLi.parentNode.removeChild(curSelectedLi);
+    },
+
+    scriptMove : function(e) {
+        var curSelectedLi = document.querySelector(".selected");
+        var curSelectedScript = Translation["script-" + curSelectedLi.dataset.id];
+        var text = curSelectedScript.text;
+        var captionArea = document.querySelector("#caption-area p");
+        captionArea.innerHTML = text;
+
+        console.log("start time : " + curSelectedScript.startTime);
+        console.log("end time : " + curSelectedScript.endTime);
+
     }
 }
 
 document.addEventListener("DOMContentLoaded", function() {
     TRANSLATE.init();
 })
-
-document.getElementById("video-box").onload = function () {
-    console.log("click event!");
-    document.querySelector("div.ytp-cued-thumbnail-overlay > button").click();
-}
