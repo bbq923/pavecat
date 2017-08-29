@@ -18,5 +18,35 @@
         "startTime": 29,
         "endTime": 38,
         "text": "사람들과 협력하고 지원함으로써 인간의 필요를 충족시키는 이러한 인공지능을 인간적인 AI라고 부릅니다."
+    },
+    "script-39": {
+        "startTime": 39,
+        "endTime": 44,
+        "text": "요즘 들어서 AI를 보조적으로 사용하는 아이디어가 주류가 되고 있는 것이 기쁩니다."
+    },
+    "script-45": {
+        "startTime": 45,
+        "endTime": 50,
+        "text": "이것은 잘 정의된 인간과 AI 간의 인터페이스 은유입니다."
+    },
+    "script-51": {
+        "startTime": 51,
+        "endTime": 53,
+        "text": "그리고 제가 만든 것 중 하나가 바로 Siri입니다."
+    },
+    "script-54": {
+        "startTime": 54,
+        "endTime": 62,
+        "text": "여러분도 아시다시피 Siri는 당신의 의도를 이해하고, 작업을 수행하기 위해 당신을 돕습니다."
+    },
+    "script-62": {
+        "startTime": 62,
+        "endTime": 66,
+        "text": "그러나 여러분들은 우리가 Siri를 인간적인(Humanistic) AI로서 디자인 했다는 것은 모르셨을 겁니다."
+    },
+    "script-67": {
+        "startTime": 67,
+        "endTime": 73,
+        "text": "모바일 컴퓨팅을 사용하기 위한 대화형 인터페이스로서 사람들을 지원해주기 위해서 말이죠."
     }
 }

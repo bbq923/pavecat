@@ -5,10 +5,6 @@
     left: 8%;
 }
 
-/* #iframe-container {
-    display: inline-block;
-} */
-
 #player {
     display: inline-block;
 }
@@ -22,19 +18,22 @@
     background-color: green;
     margin-right: 10px;
     padding: 4px;
+    cursor: pointer;
 }
 
 #caption-area {
     display: block;
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 8%;
     width: 626px;
-    background-color: #777777;
+    background: transparent;
 }
 
 #caption-area p {
     margin-left: 15px;
+    text-align: center;
+    font-size: 17px;
 }
 
 #caption-list {
@@ -50,6 +49,7 @@
     display: block;
     list-style: none;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 #caption-list li:nth-child(2n) {

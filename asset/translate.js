@@ -1,27 +1,24 @@
-var Translation;
-
 var TRANSLATE = {
 
     init : function() {
-        this.getScript.apply(this);
-        document.querySelector("#caption-list").addEventListener("click", this.scriptSelect);
+        document.querySelector("#caption-list").addEventListener("click", this.scriptSelect.bind(this));
         document.querySelector("#deleteBtn").addEventListener("click", this.scriptDelete);
         document.querySelector("#moveBtn").addEventListener("click", this.scriptMove.bind(this));
-        setInterval(this.getCurrentScript, 1000);
-    },
-
-    getScript : function() {
-        $.getJSON("asset/script.json", function(data) {
-            Translation = data;
-        })
+        setInterval(this.getCurrentScript.bind(this), 1000);
     },
 
     scriptSelect : function(e) {
         if (e.target.tagName === "LI") {
-            var curSelectedLi = document.querySelector(".selected");
-            curSelectedLi.classList.remove("selected");
-            e.target.classList.add("selected");
+            this.changeSelectState(e.target);
         }
+    },
+
+    changeSelectState : function(item) {
+        var curSelectedLi = document.querySelector(".selected");
+        if (curSelectedLi != null) {
+            curSelectedLi.classList.remove("selected");
+        }
+        item.classList.add("selected");
     },
 
     scriptDelete : function() {
@@ -51,11 +48,7 @@ var TRANSLATE = {
         if (curScript != null) {
             document.querySelector("#caption-area p").innerHTML = curScript.text;
 
-            // TODO : 따로 함수로 분리해내야 함
-            //
-            // change selected li item
-            document.querySelector(".selected").classList.remove("selected");
-            document.querySelector("[data-start-time='" + currentTime + "']").classList.add("selected");
+            this.changeSelectState(document.querySelector("[data-start-time='" + curScript.startTime + "']"));
         }
     }
 }
