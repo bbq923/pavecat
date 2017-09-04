@@ -1,6 +1,6 @@
 #video-container {
     display: block;
-    position: absolute;
+    /* position: absolute; */
     top: 8%;
     left: 8%;
 }
@@ -10,6 +10,7 @@
 }
 
 #video-controller {
+    width: 30%;
     display: inline-block;
     margin-left: 60px;
 }
@@ -23,7 +24,7 @@
 
 #caption-area {
     display: block;
-    position: absolute;
+    /* position: absolute; */
     top: 60%;
     left: 8%;
     width: 626px;
@@ -37,6 +38,10 @@
 }
 
 #caption-list {
+    height: 422px;
+    width: 100%;
+    overflow: hidden;
+    overflow-y: scroll;
     text-align: left;
     padding: 0;
     margin: 0;
@@ -45,7 +50,6 @@
 #caption-list li {
     padding: 0.3em;
     margin-bottom: .125em;
-    width: 400px;
     display: block;
     list-style: none;
     text-transform: uppercase;
@@ -63,4 +67,14 @@
 #caption-list li.selected {
     border: 3px solid;
     border-color: #9C2C2C;
+}
+
+#edit-form input.text-edit {
+    margin-top: 10px;
+    width: 630px;
+    height: 200px;
+}
+
+#edit-form .edit-button {
+    margin-top: 10px;
 }

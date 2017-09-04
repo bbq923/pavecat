@@ -19,6 +19,7 @@
             <div id="video-controller">
                 <a id="moveBtn" class="list-button">move</a>
                 <a id="deleteBtn" class="list-button">delete</a>
+                <a id="addBtn" class="list-button">add</a>
                 <ul id="caption-list">
                     <!-- <li data-start-time="13">저는 인공지능이라는 분야에 대한 새로운 관점을 소개해 드리기 위해 이 자리에 섰습니다.</li>
                     <li data-start-time="18">인공지능의 목적이 기계지능을 가지고 인간을 강화하는 것이라고 믿습니다.</li>
@@ -40,10 +41,20 @@
         <div id="caption-area">
             <p>자막이 표시되는 공간입니다. </p>
         </div>
+        <div id="translation-area">
+            <form id="edit-form" action="">
+                <label>start time</label>
+                <input id="start-time" class="time-input" type="text">
+                <label>end time</label>
+                <input id="end-time" class="time-input" type="text"> <br>
+                <input class="text-edit" type="text"> <br>
+                <input class="edit-button" type="submit" value="확인">
+            </form>
+        </div>
 
         <script id="script-list-template" type="text/x-handlebars-template">
 			{{#each this}}
-			<li data-start-time={{startTime}}>
+			<li data-start-time={{startTime}} data-end-time={{endTime}}>
 				{{text}}
 			</li>
 			{{/each}}
