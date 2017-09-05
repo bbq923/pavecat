@@ -69,12 +69,17 @@
     border-color: #9C2C2C;
 }
 
-#edit-form input.text-edit {
+#edit-form .text-edit {
     margin-top: 10px;
     width: 630px;
     height: 200px;
+    font-size: 18px;
 }
 
 #edit-form .edit-button {
     margin-top: 10px;
+}
+
+#translation-area {
+    display: inline-block;
 }

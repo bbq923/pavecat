@@ -19,6 +19,7 @@
   "dependencies": {
     "handlebars": "^4.0.10",
     "jquery": "^3.2.1",
-    "mediaelement": "^4.2.3"
+    "mediaelement": "^4.2.3",
+    "nouislider": "^10.1.0"
   }
 }

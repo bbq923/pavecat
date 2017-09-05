@@ -1,0 +1,22 @@
+#dial-area {
+    position: relative;
+    display: inline-block;
+    top: -240px;
+    margin-left: 30px;
+    width: 420px;
+}
+
+#dial {
+    /* margin: 0;
+    position: absolute;
+    top: 321px;
+    left: 0; */
+}
+
+#dial span {
+    color: #fff;
+}
+
+#dial span.yui3-dial-value-string {
+    color: #000;
+}
