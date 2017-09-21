@@ -4,21 +4,18 @@
         <meta charset="utf-8">
         <title>Pave Cat</title>
         <link rel="stylesheet" href="asset/base.css">
-        <link rel="stylesheet" href="asset/translate.css">
         <!-- <link rel="stylesheet" href="asset/dial.css"> -->
-        <link rel="stylesheet" href="asset/range-slider.css">
         <link rel="stylesheet" href="node_modules/nouislider/distribute/nouislider.min.css">
+        <link rel="stylesheet" href="asset/translate.css">
+        <link rel="stylesheet" href="asset/range-slider.css">
     </head>
     <body>
-        <p>다음 주소의 영상을 재생합니다.</p>
-        <p id="source-url"></p>
         <div id="video-container">
             <!-- <div id="iframe-container">
                 <iframe id="video-box" width="630" height="422" src="">
                 </iframe>
             </div> -->
-            <div id="player">
-            </div>
+            <div id="player"></div>
             <div id="video-controller">
                 <a id="moveBtn" class="list-button">move</a>
                 <a id="deleteBtn" class="list-button">delete</a>
@@ -40,31 +37,33 @@
                     <li>test script</li> -->
                 </ul>
             </div>
-        </div>
-        <div id="caption-area">
-            <p>자막이 표시되는 공간입니다. </p>
-        </div>
-        <div id="translation-area">
-            <form id="edit-form" action="">
-                <label>start time</label>
-                <input id="start-time" class="time-input" type="text">
-                <label>end time</label>
-                <input id="end-time" class="time-input" type="text"> <br>
-                <textarea class="text-edit" form="edit-form"></textarea> <br>
-                <input class="edit-button" type="submit" value="확인">
-            </form>
-        </div>
-        <div id="dial-area" class="yui3-skin-sam">
-            <div id="time-mark">
-                <label>start time</label>
-                <input id="dial-start-time" class="time-input" type="text">
-                <label>end time</label>
-                <input id="dial-end-time" class="time-input" type="text"> <br>
+            <div id="caption-area">
+                <p>자막이 표시되는 공간입니다. </p>
             </div>
-            <div id="dial"></div>
-            <div class="range-slider">
-                <div class="sliders" id="time-sync"></div>
-                <span>0</span>
+        </div>
+        <div class="edit-container">
+            <div id="time-controller">
+                <div id="time-mark">
+                    <label>start time</label>
+                    <input id="dial-start-time" class="time-input" type="text">
+                    <label>end time</label>
+                    <input id="dial-end-time" class="time-input" type="text"> <br>
+                </div>
+                <div id="dial"></div>
+                <div class="range-slider">
+                    <div class="sliders" id="time-sync"></div>
+                    <span>0</span>
+                </div>
+            </div>
+            <div id="translation-area">
+                <form id="edit-form" action="">
+                    <label>start time</label>
+                    <input id="start-time" class="time-input" type="text">
+                    <label>end time</label>
+                    <input id="end-time" class="time-input" type="text"> <br>
+                    <textarea class="text-edit" form="edit-form"></textarea> <br>
+                    <input class="edit-button" type="submit" value="확인">
+                </form>
             </div>
         </div>
 
@@ -78,7 +77,6 @@
 
         <script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
         <script type="text/javascript" src="node_modules/handlebars/dist/handlebars.min.js"></script>
-        <script src="http://yui.yahooapis.com/3.18.1/build/yui/yui-min.js"></script>
         <script type="text/javascript" src="asset/template.js"></script>
         <script type="text/javascript" src="asset/player.js"></script>
         <script type="text/javascript" src="asset/translate.js"></script>

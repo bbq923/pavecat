@@ -1,8 +1,10 @@
-#dial-area {
-    position: relative;
+#time-controller {
+    /* position: relative; */
     display: inline-block;
     top: -240px;
     margin-left: 30px;
     width: 420px;
+    -webkit-flex: 1;
+            flex: 1;
 }
 
