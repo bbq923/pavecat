@@ -1,12 +1,21 @@
 var TRANSLATE = {
 
     init : function() {
+        // this.downloadScript();
         document.querySelector("#caption-list").addEventListener("click", this.scriptSelect.bind(this));
         document.querySelector("#deleteBtn").addEventListener("click", this.scriptDelete);
         document.querySelector("#moveBtn").addEventListener("click", this.scriptMove.bind(this));
         document.querySelector(".edit-button").addEventListener("click", this.scriptEdit.bind(this));
         setInterval(this.getCurrentScript.bind(this), 1000);
     },
+
+    // downloadScript : function() {
+    //     console.log("download script");
+    //     var url = "localhost:7777" + localStorage.getItem("sourceURL");
+    //     $.get(url, function(data) {
+
+    //     })
+    // },
 
     scriptSelect : function(e) {
         if (e.target.tagName === "LI") {

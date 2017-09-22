@@ -59,7 +59,7 @@
     height: 422px;
     width: 100%;
     overflow: hidden;
-    /* overflow-y: scroll; */
+    overflow-y: scroll;
     text-align: left;
     padding: 0;
     margin: 0;

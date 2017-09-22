@@ -1,52 +1,1605 @@
 {
-    "script-13": {
-        "startTime": 13,
-        "endTime": 18,
-        "text": "저는 인공지능이라는 분야에 대한 새로운 관점을 소개해 드리기 위해 이 자리에 섰습니다."
-    },
-    "script-18": {
-        "startTime": 18,
-        "endTime": 24,
-        "text": "인공지능의 목적이 기계지능을 가지고 인간을 강화하는 것이라고 믿습니다."
-    },
-    "script-25": {
-        "startTime": 25,
-        "endTime": 29,
-        "text": "기계가 똑똑해 질수록, 우리도 똑똑해 진다고 말이죠"
-    },
-    "script-29": {
-        "startTime": 29,
-        "endTime": 38,
-        "text": "사람들과 협력하고 지원함으로써 인간의 필요를 충족시키는 이러한 인공지능을 인간적인 AI라고 부릅니다."
-    },
-    "script-39": {
-        "startTime": 39,
-        "endTime": 44,
-        "text": "요즘 들어서 AI를 보조적으로 사용하는 아이디어가 주류가 되고 있는 것이 기쁩니다."
-    },
-    "script-45": {
-        "startTime": 45,
-        "endTime": 50,
-        "text": "이것은 잘 정의된 인간과 AI 간의 인터페이스 은유입니다."
-    },
-    "script-51": {
-        "startTime": 51,
-        "endTime": 53,
-        "text": "그리고 제가 만든 것 중 하나가 바로 Siri입니다."
-    },
-    "script-54": {
-        "startTime": 54,
-        "endTime": 62,
-        "text": "여러분도 아시다시피 Siri는 당신의 의도를 이해하고, 작업을 수행하기 위해 당신을 돕습니다."
-    },
-    "script-62": {
-        "startTime": 62,
-        "endTime": 66,
-        "text": "그러나 여러분들은 우리가 Siri를 인간적인(Humanistic) AI로서 디자인 했다는 것은 모르셨을 겁니다."
-    },
-    "script-67": {
-        "startTime": 67,
-        "endTime": 73,
-        "text": "모바일 컴퓨팅을 사용하기 위한 대화형 인터페이스로서 사람들을 지원해주기 위해서 말이죠."
-    }
+	"script-57": {
+		"id": "59c4688f996ca50c39972d40",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "57",
+		"endTime": "61",
+		"text": "the person gossiping, five minutes later,\\nwill be gossiping about us."
+	},
+	"script-55": {
+		"id": "59c4688f996ca50c39972d3f",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "55",
+		"endTime": "57",
+		"text": "Not a nice habit,\\nand we know perfectly well"
+	},
+	"script-208": {
+		"id": "59c4688f996ca50c39972d7c",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "208",
+		"endTime": "212",
+		"text": "The A is authenticity,\\njust being yourself."
+	},
+	"script-327": {
+		"id": "59c46890996ca50c39972dac",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "327",
+		"endTime": "330",
+		"text": "Well if that's not you,\\nthat's not the end of the world,"
+	},
+	"script-205": {
+		"id": "59c4688f996ca50c39972d7b",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "205",
+		"endTime": "208",
+		"text": "being true in what you say,\\nbeing straight and clear."
+	},
+	"script-568": {
+		"id": "59c46890996ca50c39972e0a",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "568",
+		"endTime": "571",
+		"text": "Or to make that a bit larger,"
+	},
+	"script-446": {
+		"id": "59c46890996ca50c39972dda",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "446",
+		"endTime": "450",
+		"text": "It might be standing on a stage like this\\nand giving a talk to people."
+	},
+	"script-324": {
+		"id": "59c46890996ca50c39972dab",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "324",
+		"endTime": "326",
+		"text": "like hot chocolate."
+	},
+	"script-202": {
+		"id": "59c4688f996ca50c39972d7a",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "202",
+		"endTime": "205",
+		"text": "The H, honesty, of course,"
+	},
+	"script-444": {
+		"id": "59c46890996ca50c39972dd9",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "444",
+		"endTime": "446",
+		"text": "is when you've got something\\nreally important to do."
+	},
+	"script-564": {
+		"id": "59c46890996ca50c39972e09",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "564",
+		"endTime": "568",
+		"text": "in environments which were\\nactually fit for purpose?"
+	},
+	"script-200": {
+		"id": "59c4688f996ca50c39972d79",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "200",
+		"endTime": "202",
+		"text": "See if you can guess."
+	},
+	"script-321": {
+		"id": "59c46890996ca50c39972daa",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "321",
+		"endTime": "324",
+		"text": "that we prefer voices\\nwhich are rich, smooth, warm,"
+	},
+	"script-441": {
+		"id": "59c46890996ca50c39972dd8",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "441",
+		"endTime": "444",
+		"text": "Of course, where this all comes\\ninto play most of all"
+	},
+	"script-562": {
+		"id": "59c46890996ca50c39972e08",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "562",
+		"endTime": "564",
+		"text": "to people who were listening consciously"
+	},
+	"script-440": {
+		"id": "59c46890996ca50c39972dd7",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "440",
+		"endTime": "441",
+		"text": "Not nice."
+	},
+	"script-560": {
+		"id": "59c46890996ca50c39972e07",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "560",
+		"endTime": "562",
+		"text": "if we were speaking powerfully"
+	},
+	"script-62": {
+		"id": "59c4688f996ca50c39972d41",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "62",
+		"endTime": "63",
+		"text": "Second, judging."
+	},
+	"script-49": {
+		"id": "59c4688f996ca50c39972d3d",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "49",
+		"endTime": "51",
+		"text": "First, gossip."
+	},
+	"script-319": {
+		"id": "59c46890996ca50c39972da9",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "319",
+		"endTime": "321",
+		"text": "Again, the research shows"
+	},
+	"script-44": {
+		"id": "59c4688f996ca50c39972d3c",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "44",
+		"endTime": "49",
+		"text": "but these seven, I think, are pretty large\\nhabits that we can all fall into."
+	},
+	"script-318": {
+		"id": "59c46890996ca50c39972da8",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "318",
+		"endTime": "319",
+		"text": "It's the way your voice feels."
+	},
+	"script-559": {
+		"id": "59c46890996ca50c39972e06",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "559",
+		"endTime": "560",
+		"text": "What would the world be like"
+	},
+	"script-316": {
+		"id": "59c46890996ca50c39972da7",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "316",
+		"endTime": "317",
+		"text": "Then we have timbre."
+	},
+	"script-314": {
+		"id": "59c46890996ca50c39972da6",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "314",
+		"endTime": "316",
+		"text": "That's register."
+	},
+	"script-435": {
+		"id": "59c46890996ca50c39972dd6",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "435",
+		"endTime": "440",
+		"text": "Imposing your sound on people around you\\ncarelessly and inconsiderately."
+	},
+	"script-556": {
+		"id": "59c46890996ca50c39972e05",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "556",
+		"endTime": "559",
+		"text": "I have talked about that on this stage\\nin different phases."
+	},
+	"script-434": {
+		"id": "59c46890996ca50c39972dd5",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "434",
+		"endTime": "435",
+		"text": "(Laughter)"
+	},
+	"script-312": {
+		"id": "59c46890996ca50c39972da5",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "312",
+		"endTime": "314",
+		"text": "and with authority."
+	},
+	"script-432": {
+		"id": "59c46890996ca50c39972dd4",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "432",
+		"endTime": "434",
+		"text": "That's called sodcasting,"
+	},
+	"script-553": {
+		"id": "59c46890996ca50c39972e04",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "553",
+		"endTime": "556",
+		"text": "in an environment that's all\\nabout noise and bad acoustics."
+	},
+	"script-431": {
+		"id": "59c46890996ca50c39972dd3",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "431",
+		"endTime": "432",
+		"text": "Try not to do that."
+	},
+	"script-551": {
+		"id": "59c46890996ca50c39972e03",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "551",
+		"endTime": "553",
+		"text": "to people who simply aren't listening"
+	},
+	"script-52": {
+		"id": "59c4688f996ca50c39972d3e",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "52",
+		"endTime": "54",
+		"text": "Speaking ill of somebody\\nwho's not present."
+	},
+	"script-35": {
+		"id": "59c4688f996ca50c39972d39",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "35",
+		"endTime": "38",
+		"text": "there are a number of habits\\nthat we need to move away from."
+	},
+	"script-38": {
+		"id": "59c4688f996ca50c39972d3a",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "38",
+		"endTime": "41",
+		"text": "I've assembled for your pleasure here\\nseven deadly sins of speaking."
+	},
+	"script-33": {
+		"id": "59c4688f996ca50c39972d38",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "33",
+		"endTime": "35",
+		"text": "What I'd like to suggest,"
+	},
+	"script-108": {
+		"id": "59c4688f996ca50c39972d54",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "108",
+		"endTime": "110",
+		"text": "Excuses."
+	},
+	"script-229": {
+		"id": "59c4688f996ca50c39972d84",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "229",
+		"endTime": "233",
+		"text": "but I do mean wishing people\\nwell, for two reasons."
+	},
+	"script-227": {
+		"id": "59c4688f996ca50c39972d83",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "227",
+		"endTime": "229",
+		"text": "I don't mean romantic love,"
+	},
+	"script-348": {
+		"id": "59c46890996ca50c39972db6",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "348",
+		"endTime": "352",
+		"text": "People who speak all on one note\\nare really quite hard to listen to"
+	},
+	"script-105": {
+		"id": "59c4688f996ca50c39972d53",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "105",
+		"endTime": "107",
+		"text": "It's not spreading sunshine\\nand lightness in the world."
+	},
+	"script-589": {
+		"id": "59c46890996ca50c39972e13",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "589",
+		"endTime": "590",
+		"text": "Thank you."
+	},
+	"script-467": {
+		"id": "59c46890996ca50c39972de2",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "467",
+		"endTime": "470",
+		"text": "Actually, let me show you how to do that."
+	},
+	"script-224": {
+		"id": "59c4688f996ca50c39972d82",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "224",
+		"endTime": "226",
+		"text": "And the L is love."
+	},
+	"script-345": {
+		"id": "59c46890996ca50c39972db5",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "345",
+		"endTime": "348",
+		"text": "It's root one for meaning in conversation."
+	},
+	"script-466": {
+		"id": "59c46890996ca50c39972de1",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "466",
+		"endTime": "467",
+		"text": "Warm up your voice."
+	},
+	"script-587": {
+		"id": "59c46890996ca50c39972e12",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "587",
+		"endTime": "589",
+		"text": "and that is an idea worth spreading."
+	},
+	"script-102": {
+		"id": "59c4688f996ca50c39972d52",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "102",
+		"endTime": "105",
+		"text": "but actually, complaining is viral misery."
+	},
+	"script-222": {
+		"id": "59c4688f996ca50c39972d81",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "222",
+		"endTime": "224",
+		"text": "and being somebody people can trust."
+	},
+	"script-343": {
+		"id": "59c46890996ca50c39972db4",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "343",
+		"endTime": "345",
+		"text": "that we use in order to impart meaning."
+	},
+	"script-463": {
+		"id": "59c46890996ca50c39972de0",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "463",
+		"endTime": "466",
+		"text": "and no engine works well\\nwithout being warmed up."
+	},
+	"script-220": {
+		"id": "59c4688f996ca50c39972d80",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "220",
+		"endTime": "222",
+		"text": "actually doing what you say,"
+	},
+	"script-341": {
+		"id": "59c46890996ca50c39972db3",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "341",
+		"endTime": "343",
+		"text": "This is the sing-song, the meta-language"
+	},
+	"script-583": {
+		"id": "59c46890996ca50c39972e11",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "583",
+		"endTime": "587",
+		"text": "and one where understanding\\nwould be the norm,"
+	},
+	"script-460": {
+		"id": "59c46890996ca50c39972ddf",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "460",
+		"endTime": "462",
+		"text": "and the engine that it's going to work on,"
+	},
+	"script-580": {
+		"id": "59c46890996ca50c39972e10",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "580",
+		"endTime": "583",
+		"text": "That would be a world\\nthat does sound beautiful,"
+	},
+	"script-41": {
+		"id": "59c4688f996ca50c39972d3b",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "41",
+		"endTime": "44",
+		"text": "I'm not pretending\\nthis is an exhaustive list,"
+	},
+	"script-24": {
+		"id": "59c4688f996ca50c39972d34",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "24",
+		"endTime": "26",
+		"text": "And yet many people have the experience"
+	},
+	"script-26": {
+		"id": "59c4688f996ca50c39972d35",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "26",
+		"endTime": "28",
+		"text": "that when they speak, people\\ndon't listen to them."
+	},
+	"script-21": {
+		"id": "59c4688f996ca50c39972d33",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "21",
+		"endTime": "24",
+		"text": "It's the only one that can start a war\\nor say \"I love you.\""
+	},
+	"script-339": {
+		"id": "59c46890996ca50c39972db2",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "339",
+		"endTime": "341",
+		"text": "Then prosody. I love prosody."
+	},
+	"script-217": {
+		"id": "59c4688f996ca50c39972d7f",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "217",
+		"endTime": "220",
+		"text": "The I is integrity, being your word,"
+	},
+	"script-216": {
+		"id": "59c4688f996ca50c39972d7e",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "216",
+		"endTime": "217",
+		"text": "which I think is a lovely way to put it."
+	},
+	"script-337": {
+		"id": "59c46890996ca50c39972db1",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "337",
+		"endTime": "339",
+		"text": "to improve the timbre of your voice."
+	},
+	"script-457": {
+		"id": "59c46890996ca50c39972dde",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "457",
+		"endTime": "460",
+		"text": "you owe it to yourself\\nto look at this toolbox"
+	},
+	"script-578": {
+		"id": "59c46890996ca50c39972e0f",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "578",
+		"endTime": "580",
+		"text": "consciously for sound?"
+	},
+	"script-29": {
+		"id": "59c4688f996ca50c39972d37",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "29",
+		"endTime": "33",
+		"text": "How can we speak powerfully\\nto make change in the world?"
+	},
+	"script-28": {
+		"id": "59c4688f996ca50c39972d36",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "28",
+		"endTime": "29",
+		"text": "And why is that?"
+	},
+	"script-334": {
+		"id": "59c46890996ca50c39972db0",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "334",
+		"endTime": "337",
+		"text": "with breathing, with posture,\\nand with exercises"
+	},
+	"script-455": {
+		"id": "59c46890996ca50c39972ddd",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "455",
+		"endTime": "457",
+		"text": "Whatever it is, if it's really important,"
+	},
+	"script-576": {
+		"id": "59c46890996ca50c39972e0e",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "576",
+		"endTime": "578",
+		"text": "and designing all our environments"
+	},
+	"script-212": {
+		"id": "59c4688f996ca50c39972d7d",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "212",
+		"endTime": "215",
+		"text": "A friend of mine described it as\\nstanding in your own truth,"
+	},
+	"script-333": {
+		"id": "59c46890996ca50c39972daf",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "333",
+		"endTime": "334",
+		"text": "And there are amazing things you can do"
+	},
+	"script-574": {
+		"id": "59c46890996ca50c39972e0d",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "574",
+		"endTime": "576",
+		"text": "and consuming sound consciously"
+	},
+	"script-331": {
+		"id": "59c46890996ca50c39972dae",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "331",
+		"endTime": "333",
+		"text": "Go and get a voice coach."
+	},
+	"script-452": {
+		"id": "59c46890996ca50c39972ddc",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "452",
+		"endTime": "455",
+		"text": "asking for a raise, a wedding speech."
+	},
+	"script-330": {
+		"id": "59c46890996ca50c39972dad",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "330",
+		"endTime": "331",
+		"text": "because you can train."
+	},
+	"script-572": {
+		"id": "59c46890996ca50c39972e0c",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "572",
+		"endTime": "574",
+		"text": "if we were creating sound consciously"
+	},
+	"script-450": {
+		"id": "59c46890996ca50c39972ddb",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "450",
+		"endTime": "452",
+		"text": "It might be proposing marriage,"
+	},
+	"script-571": {
+		"id": "59c46890996ca50c39972e0b",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "571",
+		"endTime": "572",
+		"text": "what would the world be like"
+	},
+	"script-14": {
+		"id": "59c4688f996ca50c39972d30",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "14",
+		"endTime": "16",
+		"text": "The human voice:"
+	},
+	"script-16": {
+		"id": "59c4688f996ca50c39972d31",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "16",
+		"endTime": "18",
+		"text": "It's the instrument we all play."
+	},
+	"script-409": {
+		"id": "59c46890996ca50c39972dcb",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "409",
+		"endTime": "410",
+		"text": "Where did you leave my keys?"
+	},
+	"script-529": {
+		"id": "59c46890996ca50c39972dfa",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "529",
+		"endTime": "535",
+		"text": "So you go, weeeaawww, weeeaawww."
+	},
+	"script-406": {
+		"id": "59c46890996ca50c39972dca",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "406",
+		"endTime": "409",
+		"text": "to indicate arousal, but you\\ncan do it just with pitch."
+	},
+	"script-527": {
+		"id": "59c46890996ca50c39972df9",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "527",
+		"endTime": "529",
+		"text": "The \"we\" is high, the \"aw\" is low."
+	},
+	"script-404": {
+		"id": "59c46890996ca50c39972dc9",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "404",
+		"endTime": "406",
+		"text": "Of course, pitch often\\ngoes along with pace"
+	},
+	"script-524": {
+		"id": "59c46890996ca50c39972df8",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "524",
+		"endTime": "527",
+		"text": "It's really good. It starts\\nwith \"we\" and goes to \"aw.\""
+	},
+	"script-402": {
+		"id": "59c46890996ca50c39972dc8",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "402",
+		"endTime": "403",
+		"text": "It can be very powerful."
+	},
+	"script-522": {
+		"id": "59c46890996ca50c39972df7",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "522",
+		"endTime": "524",
+		"text": "the pros call this the siren."
+	},
+	"script-520": {
+		"id": "59c46890996ca50c39972df6",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "520",
+		"endTime": "522",
+		"text": "Finally, and if I can only do one,"
+	},
+	"script-19": {
+		"id": "59c4688f996ca50c39972d32",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "19",
+		"endTime": "21",
+		"text": "It's the most powerful sound\\nin the world, probably."
+	},
+	"script-518": {
+		"id": "59c46890996ca50c39972df5",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "518",
+		"endTime": "520",
+		"text": "That's like champagne for the tongue."
+	},
+	"script-515": {
+		"id": "59c46890996ca50c39972df4",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "515",
+		"endTime": "518",
+		"text": "And then, roll an R. Rrrrrrr."
+	},
+	"script-513": {
+		"id": "59c46890996ca50c39972df3",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "513",
+		"endTime": "515",
+		"text": "Beautiful. You're getting\\nreally good at this."
+	},
+	"script-199": {
+		"id": "59c4688f996ca50c39972d78",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "199",
+		"endTime": "200",
+		"text": "So what do they stand for?"
+	},
+	"script-197": {
+		"id": "59c4688f996ca50c39972d77",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "197",
+		"endTime": "199",
+		"text": "if we stand on these four things."
+	},
+	"script-195": {
+		"id": "59c4688f996ca50c39972d76",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "195",
+		"endTime": "197",
+		"text": "which is how I think\\nour words will be received"
+	},
+	"script-193": {
+		"id": "59c4688f996ca50c39972d75",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "193",
+		"endTime": "195",
+		"text": "to greet or acclaim enthusiastically,"
+	},
+	"script-192": {
+		"id": "59c4688f996ca50c39972d74",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "192",
+		"endTime": "193",
+		"text": "I'm talking about this definition,"
+	},
+	"script-190": {
+		"id": "59c4688f996ca50c39972d73",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "190",
+		"endTime": "192",
+		"text": "and hits you on the head."
+	},
+	"script-309": {
+		"id": "59c46890996ca50c39972da4",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "309",
+		"endTime": "312",
+		"text": "because we associate depth with power"
+	},
+	"script-429": {
+		"id": "59c46890996ca50c39972dd2",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "429",
+		"endTime": "431",
+		"text": "Some people broadcast the whole time."
+	},
+	"script-549": {
+		"id": "59c46890996ca50c39972e02",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "549",
+		"endTime": "551",
+		"text": "We speak not very well"
+	},
+	"script-305": {
+		"id": "59c46890996ca50c39972da3",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "305",
+		"endTime": "309",
+		"text": "We vote for politicians\\nwith lower voices, it's true,"
+	},
+	"script-547": {
+		"id": "59c46890996ca50c39972e01",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "547",
+		"endTime": "549",
+		"text": "This is where we are now, right?"
+	},
+	"script-303": {
+		"id": "59c46890996ca50c39972da2",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "303",
+		"endTime": "305",
+		"text": "You hear the difference?"
+	},
+	"script-424": {
+		"id": "59c46890996ca50c39972dd1",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "424",
+		"endTime": "428",
+		"text": "Or, I can have you really pay attention\\nby getting very quiet."
+	},
+	"script-545": {
+		"id": "59c46890996ca50c39972e00",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "545",
+		"endTime": "547",
+		"text": "This is a serious point here."
+	},
+	"script-301": {
+		"id": "59c46890996ca50c39972da1",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "301",
+		"endTime": "303",
+		"text": "you need to go down here to the chest."
+	},
+	"script-422": {
+		"id": "59c46890996ca50c39972dd0",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "422",
+		"endTime": "424",
+		"text": "Sorry about that, if I startled anybody."
+	},
+	"script-542": {
+		"id": "59c46890996ca50c39972dff",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "542",
+		"endTime": "545",
+		"text": "Now let me just put this\\nin context to close."
+	},
+	"script-540": {
+		"id": "59c46890996ca50c39972dfe",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "540",
+		"endTime": "542",
+		"text": "Next time you speak, do those in advance."
+	},
+	"script-418": {
+		"id": "59c46890996ca50c39972dcf",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "418",
+		"endTime": "422",
+		"text": "(Loud) I can get really excited\\nby using volume."
+	},
+	"script-538": {
+		"id": "59c46890996ca50c39972dfd",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "538",
+		"endTime": "540",
+		"text": "(Applause)"
+	},
+	"script-416": {
+		"id": "59c46890996ca50c39972dce",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "416",
+		"endTime": "418",
+		"text": "And finally, volume."
+	},
+	"script-537": {
+		"id": "59c46890996ca50c39972dfc",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "537",
+		"endTime": "538",
+		"text": "Take a seat, thank you."
+	},
+	"script-535": {
+		"id": "59c46890996ca50c39972dfb",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "535",
+		"endTime": "537",
+		"text": "Fantastic. Give yourselves\\na round of applause."
+	},
+	"script-412": {
+		"id": "59c46890996ca50c39972dcd",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "412",
+		"endTime": "416",
+		"text": "So, slightly different meaning\\nin those two deliveries."
+	},
+	"script-410": {
+		"id": "59c46890996ca50c39972dcc",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "410",
+		"endTime": "412",
+		"text": "(Higher pitch) Where did you\\nleave my keys?"
+	},
+	"script-169": {
+		"id": "59c4688f996ca50c39972d6c",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "169",
+		"endTime": "170",
+		"text": "Yes, there is."
+	},
+	"script-288": {
+		"id": "59c46890996ca50c39972d9b",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "288",
+		"endTime": "290",
+		"text": "for any of you who are voice coaches."
+	},
+	"script-166": {
+		"id": "59c4688f996ca50c39972d6b",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "166",
+		"endTime": "169",
+		"text": "But is there a positive\\nway to think about this?"
+	},
+	"script-286": {
+		"id": "59c46890996ca50c39972d9a",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "286",
+		"endTime": "288",
+		"text": "I'm not going to get very\\ntechnical about this"
+	},
+	"script-164": {
+		"id": "59c4688f996ca50c39972d6a",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "164",
+		"endTime": "166",
+		"text": "These are things I think we need to avoid."
+	},
+	"script-284": {
+		"id": "59c46890996ca50c39972d99",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "284",
+		"endTime": "286",
+		"text": "but there's a register in between."
+	},
+	"script-161": {
+		"id": "59c4688f996ca50c39972d69",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "161",
+		"endTime": "164",
+		"text": "So here they are, seven deadly\\nsins of speaking."
+	},
+	"script-280": {
+		"id": "59c46890996ca50c39972d98",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "280",
+		"endTime": "284",
+		"text": "Now, falsetto register may not\\nbe very useful most of the time,"
+	},
+	"script-158": {
+		"id": "59c4688f996ca50c39972d68",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "158",
+		"endTime": "161",
+		"text": "It's difficult to listen to that."
+	},
+	"script-278": {
+		"id": "59c46890996ca50c39972d97",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "278",
+		"endTime": "280",
+		"text": "Register, for example."
+	},
+	"script-399": {
+		"id": "59c46890996ca50c39972dc7",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "399",
+		"endTime": "401",
+		"text": "We don't have to fill it with ums and ahs."
+	},
+	"script-155": {
+		"id": "59c4688f996ca50c39972d67",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "155",
+		"endTime": "158",
+		"text": "You know, somebody is bombarding you\\nwith their opinions as if they were true."
+	},
+	"script-276": {
+		"id": "59c46890996ca50c39972d96",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "276",
+		"endTime": "278",
+		"text": "which will increase\\nthe power of your speaking."
+	},
+	"script-153": {
+		"id": "59c4688f996ca50c39972d66",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "153",
+		"endTime": "155",
+		"text": "you're listening into the wind."
+	},
+	"script-274": {
+		"id": "59c46890996ca50c39972d95",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "274",
+		"endTime": "276",
+		"text": "that you might like to take\\naway and play with,"
+	},
+	"script-395": {
+		"id": "59c46890996ca50c39972dc6",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "395",
+		"endTime": "398",
+		"text": "There's nothing wrong with a bit\\nof silence in a talk, is there?"
+	},
+	"script-151": {
+		"id": "59c4688f996ca50c39972d65",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "151",
+		"endTime": "153",
+		"text": "When those two things get conflated,"
+	},
+	"script-272": {
+		"id": "59c46890996ca50c39972d94",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "272",
+		"endTime": "274",
+		"text": "and just pull a few tools out"
+	},
+	"script-270": {
+		"id": "59c46890996ca50c39972d93",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "270",
+		"endTime": "272",
+		"text": "I'd like to have a little rummage\\nin there with you now"
+	},
+	"script-509": {
+		"id": "59c46890996ca50c39972df2",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "509",
+		"endTime": "513",
+		"text": "with exaggerated la, la, la,\\nla, la, la, la, la, la."
+	},
+	"script-507": {
+		"id": "59c46890996ca50c39972df1",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "507",
+		"endTime": "509",
+		"text": "We're going to do the tongue next"
+	},
+	"script-504": {
+		"id": "59c46890996ca50c39972df0",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "504",
+		"endTime": "507",
+		"text": "Brrrr. Now your lips\\nshould be coming alive."
+	},
+	"script-503": {
+		"id": "59c46890996ca50c39972def",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "503",
+		"endTime": "504",
+		"text": "just like when you were a kid."
+	},
+	"script-188": {
+		"id": "59c4688f996ca50c39972d72",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "188",
+		"endTime": "190",
+		"text": "I'm not talking about the stuff\\nthat falls from the sky"
+	},
+	"script-185": {
+		"id": "59c4688f996ca50c39972d71",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "185",
+		"endTime": "188",
+		"text": "The word is \"hail,\" and it has\\na great definition as well."
+	},
+	"script-182": {
+		"id": "59c4688f996ca50c39972d70",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "182",
+		"endTime": "184",
+		"text": "Fortunately, these things spell a word."
+	},
+	"script-178": {
+		"id": "59c4688f996ca50c39972d6f",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "178",
+		"endTime": "182",
+		"text": "to be powerful and to make\\nchange in the world."
+	},
+	"script-299": {
+		"id": "59c46890996ca50c39972da0",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "299",
+		"endTime": "301",
+		"text": "But if you want weight,"
+	},
+	"script-176": {
+		"id": "59c4688f996ca50c39972d6e",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "176",
+		"endTime": "178",
+		"text": "that we can stand on if we want our speech"
+	},
+	"script-296": {
+		"id": "59c46890996ca50c39972d9f",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "296",
+		"endTime": "299",
+		"text": "which is where most of us\\nspeak from most of the time."
+	},
+	"script-295": {
+		"id": "59c46890996ca50c39972d9e",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "295",
+		"endTime": "296",
+		"text": "If I go down here in my throat,"
+	},
+	"script-292": {
+		"id": "59c46890996ca50c39972d9d",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "292",
+		"endTime": "295",
+		"text": "So if I talk up here in my nose,\\nyou can hear the difference."
+	},
+	"script-170": {
+		"id": "59c4688f996ca50c39972d6d",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "170",
+		"endTime": "176",
+		"text": "I'd like to suggest that there are four\\nreally powerful cornerstones, foundations,"
+	},
+	"script-290": {
+		"id": "59c46890996ca50c39972d9c",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "290",
+		"endTime": "292",
+		"text": "You can locate your voice, however."
+	},
+	"script-98": {
+		"id": "59c4688f996ca50c39972d50",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "98",
+		"endTime": "99",
+		"text": "It's our national sport."
+	},
+	"script-99": {
+		"id": "59c4688f996ca50c39972d51",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "99",
+		"endTime": "102",
+		"text": "We complain about the weather, sport,\\nabout politics, about everything,"
+	},
+	"script-128": {
+		"id": "59c4688f996ca50c39972d5d",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "128",
+		"endTime": "131",
+		"text": "It demeans our language,\\nactually, sometimes."
+	},
+	"script-248": {
+		"id": "59c46890996ca50c39972d8a",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "248",
+		"endTime": "251",
+		"text": "it's very hard to judge\\nthem at the same time."
+	},
+	"script-369": {
+		"id": "59c46890996ca50c39972dbd",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "369",
+		"endTime": "371",
+		"text": "(Laughter)"
+	},
+	"script-489": {
+		"id": "59c46890996ca50c39972dea",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "489",
+		"endTime": "492",
+		"text": "Ahhhh, very good."
+	},
+	"script-125": {
+		"id": "59c4688f996ca50c39972d5c",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "125",
+		"endTime": "128",
+		"text": "embroidery, exaggeration."
+	},
+	"script-488": {
+		"id": "59c46890996ca50c39972de9",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "488",
+		"endTime": "489",
+		"text": "One more time."
+	},
+	"script-245": {
+		"id": "59c46890996ca50c39972d89",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "245",
+		"endTime": "248",
+		"text": "But also, if you're really\\nwishing somebody well,"
+	},
+	"script-366": {
+		"id": "59c46890996ca50c39972dbc",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "366",
+		"endTime": "369",
+		"text": "when it's actually not\\na question, it's a statement?"
+	},
+	"script-123": {
+		"id": "59c4688f996ca50c39972d5b",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "123",
+		"endTime": "125",
+		"text": "Penultimate, the sixth of the seven,"
+	},
+	"script-364": {
+		"id": "59c46890996ca50c39972dbb",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "364",
+		"endTime": "366",
+		"text": "where every sentence ends\\nas if it were a question"
+	},
+	"script-485": {
+		"id": "59c46890996ca50c39972de8",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "485",
+		"endTime": "488",
+		"text": "and sigh out, ahhhhh, like that."
+	},
+	"script-242": {
+		"id": "59c46890996ca50c39972d88",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "242",
+		"endTime": "245",
+		"text": "Tempered with love, of course,\\nhonesty is a great thing."
+	},
+	"script-120": {
+		"id": "59c4688f996ca50c39972d5a",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "120",
+		"endTime": "123",
+		"text": "and again, hard to listen\\nto somebody who is being like that."
+	},
+	"script-482": {
+		"id": "59c46890996ca50c39972de7",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "482",
+		"endTime": "485",
+		"text": "First, arms up, deep breath in,"
+	},
+	"script-360": {
+		"id": "59c46890996ca50c39972dba",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "360",
+		"endTime": "364",
+		"text": "Also, we have repetitive\\nprosody now coming in,"
+	},
+	"script-87": {
+		"id": "59c4688f996ca50c39972d4c",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "87",
+		"endTime": "90",
+		"text": "It's hard to listen\\nwhen somebody's that negative."
+	},
+	"script-118": {
+		"id": "59c4688f996ca50c39972d59",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "118",
+		"endTime": "120",
+		"text": "and don't take responsibility\\nfor their actions,"
+	},
+	"script-239": {
+		"id": "59c46890996ca50c39972d87",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "239",
+		"endTime": "242",
+		"text": "Perhaps that's not necessary."
+	},
+	"script-358": {
+		"id": "59c46890996ca50c39972db9",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "358",
+		"endTime": "360",
+		"text": "or monotonous, monotone."
+	},
+	"script-479": {
+		"id": "59c46890996ca50c39972de6",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "479",
+		"endTime": "482",
+		"text": "Any time you're going to talk\\nto anybody important, do these."
+	},
+	"script-115": {
+		"id": "59c4688f996ca50c39972d58",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "115",
+		"endTime": "118",
+		"text": "They just pass it on to everybody else"
+	},
+	"script-236": {
+		"id": "59c46890996ca50c39972d86",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "236",
+		"endTime": "239",
+		"text": "I mean, my goodness,\\nyou look ugly this morning."
+	},
+	"script-113": {
+		"id": "59c4688f996ca50c39972d57",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "113",
+		"endTime": "115",
+		"text": "Some people have a blamethrower."
+	},
+	"script-355": {
+		"id": "59c46890996ca50c39972db8",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "355",
+		"endTime": "358",
+		"text": "That's where the word\\n\"monotonic\" comes from,"
+	},
+	"script-233": {
+		"id": "59c4688f996ca50c39972d85",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "233",
+		"endTime": "236",
+		"text": "First of all, I think absolute honesty\\nmay not be what we want."
+	},
+	"script-111": {
+		"id": "59c4688f996ca50c39972d56",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "111",
+		"endTime": "113",
+		"text": "Maybe we've all been this guy."
+	},
+	"script-474": {
+		"id": "59c46890996ca50c39972de5",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "474",
+		"endTime": "479",
+		"text": "the six vocal warm-up exercises\\nthat I do before every talk I ever do."
+	},
+	"script-110": {
+		"id": "59c4688f996ca50c39972d55",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "110",
+		"endTime": "111",
+		"text": "We've all met this guy."
+	},
+	"script-352": {
+		"id": "59c46890996ca50c39972db7",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "352",
+		"endTime": "355",
+		"text": "if they don't have any prosody at all."
+	},
+	"script-473": {
+		"id": "59c46890996ca50c39972de4",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "473",
+		"endTime": "474",
+		"text": "I'm going to show you"
+	},
+	"script-470": {
+		"id": "59c46890996ca50c39972de3",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "470",
+		"endTime": "473",
+		"text": "Would you all like to stand\\nup for a moment?"
+	},
+	"script-590": {
+		"id": "59c46890996ca50c39972e14",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "590",
+		"endTime": "592",
+		"text": "(Applause)"
+	},
+	"script-93": {
+		"id": "59c4688f996ca50c39972d4f",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "93",
+		"endTime": "98",
+		"text": "Well, this is the national art of the U.K."
+	},
+	"script-90": {
+		"id": "59c4688f996ca50c39972d4d",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "90",
+		"endTime": "91",
+		"text": "(Laughter)"
+	},
+	"script-91": {
+		"id": "59c4688f996ca50c39972d4e",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "91",
+		"endTime": "93",
+		"text": "And another form\\nof negativity, complaining."
+	},
+	"script-79": {
+		"id": "59c4688f996ca50c39972d48",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "79",
+		"endTime": "80",
+		"text": "and it's hard to listen."
+	},
+	"script-76": {
+		"id": "59c4688f996ca50c39972d47",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "76",
+		"endTime": "79",
+		"text": "My mother, in the last years of her life,\\nbecame very negative,"
+	},
+	"script-148": {
+		"id": "59c4688f996ca50c39972d64",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "148",
+		"endTime": "151",
+		"text": "The confusion of facts with opinions."
+	},
+	"script-389": {
+		"id": "59c46890996ca50c39972dc5",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "389",
+		"endTime": "392",
+		"text": "and at the end of that, of course,\\nis our old friend silence."
+	},
+	"script-266": {
+		"id": "59c46890996ca50c39972d92",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "266",
+		"endTime": "270",
+		"text": "and yet this is a toolbox\\nthat very few people have ever opened."
+	},
+	"script-144": {
+		"id": "59c4688f996ca50c39972d63",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "144",
+		"endTime": "147",
+		"text": "And finally, dogmatism."
+	},
+	"script-264": {
+		"id": "59c46890996ca50c39972d91",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "264",
+		"endTime": "266",
+		"text": "This instrument is incredible,"
+	},
+	"script-385": {
+		"id": "59c46890996ca50c39972dc4",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "385",
+		"endTime": "389",
+		"text": "or I can slow right down to emphasize,"
+	},
+	"script-263": {
+		"id": "59c46890996ca50c39972d90",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "263",
+		"endTime": "264",
+		"text": "You have an amazing toolbox."
+	},
+	"script-141": {
+		"id": "59c4688f996ca50c39972d62",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "141",
+		"endTime": "144",
+		"text": "and we don't want to listen\\nto people we know are lying to us."
+	},
+	"script-261": {
+		"id": "59c46890996ca50c39972d8f",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "261",
+		"endTime": "263",
+		"text": "it's also the way that you say it."
+	},
+	"script-382": {
+		"id": "59c46890996ca50c39972dc3",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "382",
+		"endTime": "385",
+		"text": "I can get very excited by saying\\nsomething really quickly,"
+	},
+	"script-381": {
+		"id": "59c46890996ca50c39972dc2",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "381",
+		"endTime": "382",
+		"text": "Pace."
+	},
+	"script-83": {
+		"id": "59c4688f996ca50c39972d4a",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "83",
+		"endTime": "85",
+		"text": "and she said, \"I know, isn't it dreadful?\""
+	},
+	"script-85": {
+		"id": "59c4688f996ca50c39972d4b",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "85",
+		"endTime": "87",
+		"text": "(Laughter)"
+	},
+	"script-80": {
+		"id": "59c4688f996ca50c39972d49",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "80",
+		"endTime": "83",
+		"text": "I remember one day, I said to her,\\n\"It's October 1 today,\""
+	},
+	"script-68": {
+		"id": "59c4688f996ca50c39972d44",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "68",
+		"endTime": "72",
+		"text": "if you know that you're being judged\\nand found wanting at the same time."
+	},
+	"script-64": {
+		"id": "59c4688f996ca50c39972d42",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "64",
+		"endTime": "66",
+		"text": "We know people who are like this\\nin conversation,"
+	},
+	"script-66": {
+		"id": "59c4688f996ca50c39972d43",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "66",
+		"endTime": "68",
+		"text": "and it's very hard to listen to somebody"
+	},
+	"script-138": {
+		"id": "59c4688f996ca50c39972d61",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "138",
+		"endTime": "141",
+		"text": "And then, of course,\\nthis exaggeration becomes lying,"
+	},
+	"script-259": {
+		"id": "59c46890996ca50c39972d8e",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "259",
+		"endTime": "261",
+		"text": "and it's like the old song,\\nit is what you say,"
+	},
+	"script-257": {
+		"id": "59c46890996ca50c39972d8d",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "257",
+		"endTime": "259",
+		"text": "Also, now that's what you say,"
+	},
+	"script-378": {
+		"id": "59c46890996ca50c39972dc1",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "378",
+		"endTime": "380",
+		"text": "so let's try and break that habit."
+	},
+	"script-499": {
+		"id": "59c46890996ca50c39972dee",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "499",
+		"endTime": "503",
+		"text": "And now, brrrrrrrrrr,"
+	},
+	"script-135": {
+		"id": "59c4688f996ca50c39972d60",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "135",
+		"endTime": "138",
+		"text": "(Laughter)"
+	},
+	"script-134": {
+		"id": "59c4688f996ca50c39972d5f",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "134",
+		"endTime": "135",
+		"text": "what do I call it?"
+	},
+	"script-255": {
+		"id": "59c46890996ca50c39972d8c",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "255",
+		"endTime": "257",
+		"text": "So hail."
+	},
+	"script-376": {
+		"id": "59c46890996ca50c39972dc0",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "376",
+		"endTime": "378",
+		"text": "which I think is a shame,"
+	},
+	"script-496": {
+		"id": "59c46890996ca50c39972ded",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "496",
+		"endTime": "499",
+		"text": "Ba, Ba, Ba, Ba. Very good."
+	},
+	"script-131": {
+		"id": "59c4688f996ca50c39972d5e",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "131",
+		"endTime": "134",
+		"text": "For example, if I see something\\nthat really is awesome,"
+	},
+	"script-373": {
+		"id": "59c46890996ca50c39972dbf",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "373",
+		"endTime": "376",
+		"text": "it's actually restricting your ability\\nto communicate through prosody,"
+	},
+	"script-494": {
+		"id": "59c46890996ca50c39972dec",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "494",
+		"endTime": "496",
+		"text": "and we're going to go Ba, Ba, Ba, Ba,"
+	},
+	"script-251": {
+		"id": "59c46890996ca50c39972d8b",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "251",
+		"endTime": "255",
+		"text": "I'm not even sure you can do\\nthose two things simultaneously."
+	},
+	"script-371": {
+		"id": "59c46890996ca50c39972dbe",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "371",
+		"endTime": "373",
+		"text": "And if you repeat that one,"
+	},
+	"script-492": {
+		"id": "59c46890996ca50c39972deb",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "492",
+		"endTime": "494",
+		"text": "Now we're going to warm up our lips,"
+	},
+	"script-72": {
+		"id": "59c4688f996ca50c39972d45",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "72",
+		"endTime": "74",
+		"text": "Third, negativity."
+	},
+	"script-74": {
+		"id": "59c4688f996ca50c39972d46",
+		"videoId": "eIho2S0ZahI",
+		"startTime": "74",
+		"endTime": "76",
+		"text": "You can fall into this."
+	}
 }
